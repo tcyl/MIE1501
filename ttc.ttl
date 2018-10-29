@@ -52,156 +52,6 @@
     gtfs:shortName "102" ;
     gtfs:textColor "FFFFFF" .
 
-<http://data.gtfs.org/sample-feed/0.1/route/55099> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "800080" ;
-    gtfs:longName "FAYWOOD" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "104" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55100> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "804000" ;
-    gtfs:longName "DUFFERIN NORTH" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "105" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55101> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "00FFFF" ;
-    gtfs:longName "SENTINEL" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "106" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55102> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "FF00FF" ;
-    gtfs:longName "ST REGIS" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "107" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55103> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "800080" ;
-    gtfs:longName "DRIFTWOOD" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "108" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55104> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "008000" ;
-    gtfs:longName "RANEE" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "109" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55105> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "FF0000" ;
-    gtfs:longName "BAYVIEW" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "11" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55106> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "804000" ;
-    gtfs:longName "ISLINGTON SOUTH" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "110" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55107> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "804000" ;
-    gtfs:longName "EAST MALL" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "111" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55108> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "800080" ;
-    gtfs:longName "WEST MALL" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "112" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55109> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "808000" ;
-    gtfs:longName "DANFORTH ROAD" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "113" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55110> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "008000" ;
-    gtfs:longName "SILVER HILLS" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "115" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55111> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "804000" ;
-    gtfs:longName "MORNINGSIDE" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "116" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55112> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "008000" ;
-    gtfs:longName "ALNESS-CHESSWOOD" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "117" ;
-    gtfs:textColor "FFFFFF" .
-
-<http://data.gtfs.org/sample-feed/0.1/route/55113> a gtfs:Route ;
-    dct:description "0.0" ;
-    gtfs:agency "1" ;
-    gtfs:color "800080" ;
-    gtfs:longName "THISTLE DOWN" ;
-    gtfs:routeType gtfs:Bus ;
-    gtfs:routeUrl "0.0" ;
-    gtfs:shortName "118" ;
-    gtfs:textColor "FFFFFF" .
-
 <http://data.gtfs.org/sample-feed/0.1/route/55305> a gtfs:Route ;
     dct:description "0.0" ;
     gtfs:agency "1" ;
@@ -279,86 +129,26 @@
             gtfs:wednesday "0" ] .
 
 <http://data.gtfs.org/sample-feed/0.1/shape/736614> a gtfs:Shape ;
-    gtfs:shapePoint [ gtfs:distanceTraveled "0.0" ;
-            gtfs:pointSequence "1" ;
-            geo:lat "43.775923999999996" ;
-            geo:long "-79.346974" ],
-        [ gtfs:distanceTraveled "0.1154" ;
-            gtfs:pointSequence "13" ;
-            geo:lat "43.776567" ;
-            geo:long "-79.347383" ],
-        [ gtfs:distanceTraveled "0.0766" ;
-            gtfs:pointSequence "10" ;
-            geo:lat "43.776534000000005" ;
-            geo:long "-79.346919" ],
-        [ gtfs:distanceTraveled "0.6134" ;
-            gtfs:pointSequence "19" ;
-            geo:lat "43.779191" ;
-            geo:long "-79.34874599999999" ],
-        [ gtfs:distanceTraveled "0.0376" ;
-            gtfs:pointSequence "6" ;
-            geo:lat "43.776214" ;
-            geo:long "-79.346825" ],
-        [ gtfs:distanceTraveled "0.4368" ;
-            gtfs:pointSequence "16" ;
-            geo:lat "43.779078000000005" ;
-            geo:long "-79.348725" ],
-        [ gtfs:distanceTraveled "0.6012" ;
-            gtfs:pointSequence "18" ;
-            geo:lat "43.779078000000005" ;
-            geo:long "-79.348725" ],
-        [ gtfs:distanceTraveled "0.0122" ;
+    gtfs:shapePoint [ gtfs:distanceTraveled "0.0122" ;
             gtfs:pointSequence "2" ;
             geo:lat "43.776032" ;
             geo:long "-79.34699" ],
-        [ gtfs:distanceTraveled "0.2087" ;
-            gtfs:pointSequence "15" ;
-            geo:lat "43.777121" ;
-            geo:long "-79.34788499999999" ],
-        [ gtfs:distanceTraveled "0.0276" ;
-            gtfs:pointSequence "4" ;
-            geo:lat "43.77616" ;
-            geo:long "-79.346917" ],
-        [ gtfs:distanceTraveled "0.519" ;
-            gtfs:pointSequence "17" ;
-            geo:lat "43.778378000000004" ;
-            geo:long "-79.34840600000001" ],
+        [ gtfs:distanceTraveled "0.0" ;
+            gtfs:pointSequence "1" ;
+            geo:lat "43.775923999999996" ;
+            geo:long "-79.346974" ],
         [ gtfs:distanceTraveled "0.0226" ;
             gtfs:pointSequence "3" ;
             geo:lat "43.776118" ;
             geo:long "-79.346959" ],
-        [ gtfs:distanceTraveled "0.0685" ;
-            gtfs:pointSequence "9" ;
-            geo:lat "43.776471" ;
-            geo:long "-79.346867" ],
-        [ gtfs:distanceTraveled "0.6284" ;
-            gtfs:pointSequence "20" ;
-            geo:lat "43.779323" ;
-            geo:long "-79.34875100000001" ],
-        [ gtfs:distanceTraveled "0.0972" ;
-            gtfs:pointSequence "12" ;
-            geo:lat "43.776592" ;
-            geo:long "-79.347154" ],
-        [ gtfs:distanceTraveled "0.086" ;
-            gtfs:pointSequence "11" ;
-            geo:lat "43.776575" ;
-            geo:long "-79.347015" ],
-        [ gtfs:distanceTraveled "0.0602" ;
-            gtfs:pointSequence "8" ;
-            geo:lat "43.7764" ;
-            geo:long "-79.34684200000001" ],
-        [ gtfs:distanceTraveled "0.0399" ;
-            gtfs:pointSequence "7" ;
-            geo:lat "43.776221" ;
-            geo:long "-79.346795" ],
+        [ gtfs:distanceTraveled "0.0276" ;
+            gtfs:pointSequence "4" ;
+            geo:lat "43.77616" ;
+            geo:long "-79.346917" ],
         [ gtfs:distanceTraveled "0.034" ;
             gtfs:pointSequence "5" ;
             geo:lat "43.776195" ;
-            geo:long "-79.346861" ],
-        [ gtfs:distanceTraveled "0.1366" ;
-            gtfs:pointSequence "14" ;
-            geo:lat "43.776509999999995" ;
-            geo:long "-79.347626" ] .
+            geo:long "-79.346861" ] .
 
 <http://data.gtfs.org/sample-feed/0.1/stop/262> a gtfs:Stop ;
     gtfs:Zone "0.0" ;
@@ -420,186 +210,6 @@
     geo:long "-79.59477700000001" ;
     foaf:page "0.0" .
 
-<http://data.gtfs.org/sample-feed/0.1/stop/267> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "3478" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DISCO RD AT ATTWELL DR" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "267" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.701057" ;
-    geo:long "-79.595799" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/268> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "3479" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DISCO RD AT CARLINGVIEW DR EAST SIDE" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "268" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.69982" ;
-    geo:long "-79.600767" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/269> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "3480" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DISCO RD AT CARLINGVIEW DR" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "269" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.699892999999996" ;
-    geo:long "-79.601112" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/270> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "14258" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT EGLINTON AVE EAST" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "270" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.720669" ;
-    geo:long "-79.339096" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/271> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "9125" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT EGLINTON AVE EAST NORTH SIDE" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "271" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.720898999999996" ;
-    geo:long "-79.338799" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/273> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "14255" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT LAWRENCE AVE EAST SOUTH SIDE" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "273" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.736628" ;
-    geo:long "-79.343412" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/274> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "1950" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT LEITH HILL RD" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "274" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.777289" ;
-    geo:long "-79.348111" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/275> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "14260" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT OVERLEA BLVD SOUTH SIDE" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "275" ;
-    gtfs:wheelchairAccessible gtfs:NotWheelchairAccessible ;
-    geo:lat "43.709506" ;
-    geo:long "-79.334342" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/278> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "1974" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT STEELES AVE EAST" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "278" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.810988" ;
-    geo:long "-79.360504" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/279> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "1975" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT VAN HORNE AVE" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "279" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.787221" ;
-    geo:long "-79.352777" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/280> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "1977" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DON MILLS RD AT WYNFORD DR" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "280" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.722834000000006" ;
-    geo:long "-79.339334" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/284> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "5006" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DONCASTER AVE AT MAIN ST WEST SIDE" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "284" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.691660999999996" ;
-    geo:long "-79.303783" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/285> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "5007" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DONCASTER AVE AT MAIN ST" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "285" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.691625" ;
-    geo:long "-79.303534" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/286> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "5008" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DONCASTER AVE AT MAIN ST" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "286" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.691818" ;
-    geo:long "-79.303107" ;
-    foaf:page "0.0" .
-
-<http://data.gtfs.org/sample-feed/0.1/stop/289> a gtfs:Stop ;
-    gtfs:Zone "0.0" ;
-    gtfs:code "9288" ;
-    gtfs:description "0.0" ;
-    gtfs:name "DREWRY AVE AT GARDENIA CRT" ;
-    gtfs:parentStation "0.0" ;
-    gtfs:stop "289" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible ;
-    geo:lat "43.783894000000004" ;
-    geo:long "-79.431722" ;
-    foaf:page "0.0" .
-
 <http://data.gtfs.org/sample-feed/0.1/trip/36933161> a gtfs:Trip ;
     gtfs:block "1598285" ;
     gtfs:direction "0" ;
@@ -608,17 +218,6 @@
     gtfs:service "1" ;
     gtfs:shortName "0.0" ;
     gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/1047> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:22:09" ;
-    gtfs:departureTime "6:22:09" ;
-    gtfs:distanceTraveled "2.0983" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "1047" ;
-    gtfs:stopSequence "10" ;
-    gtfs:trip "36933161" .
 
 <http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/1163> a gtfs:StopTime ;
     gtfs:arrivalTime "6:18:41" ;
@@ -629,17 +228,6 @@
     gtfs:pickupType gtfs:Regular ;
     gtfs:stop "1163" ;
     gtfs:stopSequence "5" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/13165> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:21:00" ;
-    gtfs:departureTime "6:21:00" ;
-    gtfs:distanceTraveled "1.6505" ;
-    gtfs:dropfOffType gtfs:NotAvailable ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:NotAvailable ;
-    gtfs:stop "13165" ;
-    gtfs:stopSequence "7" ;
     gtfs:trip "36933161" .
 
 <http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/13173> a gtfs:StopTime ;
@@ -653,17 +241,6 @@
     gtfs:stopSequence "1" ;
     gtfs:trip "36933161" .
 
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/13888> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:26:00" ;
-    gtfs:departureTime "6:26:00" ;
-    gtfs:distanceTraveled "3.562" ;
-    gtfs:dropfOffType gtfs:NotAvailable ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:NotAvailable ;
-    gtfs:stop "13888" ;
-    gtfs:stopSequence "16" ;
-    gtfs:trip "36933161" .
-
 <http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/14155> a gtfs:StopTime ;
     gtfs:arrivalTime "6:15:01" ;
     gtfs:departureTime "6:15:01" ;
@@ -673,39 +250,6 @@
     gtfs:pickupType gtfs:Regular ;
     gtfs:stop "14155" ;
     gtfs:stopSequence "2" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/2498> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:21:08" ;
-    gtfs:departureTime "6:21:08" ;
-    gtfs:distanceTraveled "1.7027" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "2498" ;
-    gtfs:stopSequence "8" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/2670> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:27:23" ;
-    gtfs:departureTime "6:27:23" ;
-    gtfs:distanceTraveled "4.0385" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "2670" ;
-    gtfs:stopSequence "18" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/2671> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:26:04" ;
-    gtfs:departureTime "6:26:04" ;
-    gtfs:distanceTraveled "3.5869" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "2671" ;
-    gtfs:stopSequence "17" ;
     gtfs:trip "36933161" .
 
 <http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/3807> a gtfs:StopTime ;
@@ -719,39 +263,6 @@
     gtfs:stopSequence "3" ;
     gtfs:trip "36933161" .
 
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/3981> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:24:18" ;
-    gtfs:departureTime "6:24:18" ;
-    gtfs:distanceTraveled "2.9325" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "3981" ;
-    gtfs:stopSequence "13" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/4206> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:23:58" ;
-    gtfs:departureTime "6:23:58" ;
-    gtfs:distanceTraveled "2.8028" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "4206" ;
-    gtfs:stopSequence "12" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/6222> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:28:03" ;
-    gtfs:departureTime "6:28:03" ;
-    gtfs:distanceTraveled "4.2675" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "6222" ;
-    gtfs:stopSequence "19" ;
-    gtfs:trip "36933161" .
-
 <http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/6904> a gtfs:StopTime ;
     gtfs:arrivalTime "6:17:21" ;
     gtfs:departureTime "6:17:21" ;
@@ -763,92 +274,8 @@
     gtfs:stopSequence "4" ;
     gtfs:trip "36933161" .
 
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/6986> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:28:41" ;
-    gtfs:departureTime "6:28:41" ;
-    gtfs:distanceTraveled "4.4873" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "6986" ;
-    gtfs:stopSequence "20" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/7147> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:25:39" ;
-    gtfs:departureTime "6:25:39" ;
-    gtfs:distanceTraveled "3.45" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "7147" ;
-    gtfs:stopSequence "15" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/7723> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:19:51" ;
-    gtfs:departureTime "6:19:51" ;
-    gtfs:distanceTraveled "1.3429" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "7723" ;
-    gtfs:stopSequence "6" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/805> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:21:40" ;
-    gtfs:departureTime "6:21:40" ;
-    gtfs:distanceTraveled "1.9093" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "805" ;
-    gtfs:stopSequence "9" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/8848> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:22:40" ;
-    gtfs:departureTime "6:22:40" ;
-    gtfs:distanceTraveled "2.3001" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "8848" ;
-    gtfs:stopSequence "11" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933161/stop/9392> a gtfs:StopTime ;
-    gtfs:arrivalTime "6:25:06" ;
-    gtfs:departureTime "6:25:06" ;
-    gtfs:distanceTraveled "3.2384" ;
-    gtfs:dropfOffType gtfs:Regular ;
-    gtfs:headsign "0.0" ;
-    gtfs:pickupType gtfs:Regular ;
-    gtfs:stop "9392" ;
-    gtfs:stopSequence "14" ;
-    gtfs:trip "36933161" .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933162> a gtfs:Trip ;
-    gtfs:block "1598286" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
 <http://data.gtfs.org/sample-feed/0.1/trip/36933164> a gtfs:Trip ;
     gtfs:block "1598286" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933165> a gtfs:Trip ;
-    gtfs:block "1598287" ;
     gtfs:direction "0" ;
     gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
     gtfs:route "55095" ;
@@ -865,106 +292,7 @@
     gtfs:shortName "0.0" ;
     gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
 
-<http://data.gtfs.org/sample-feed/0.1/trip/36933169> a gtfs:Trip ;
-    gtfs:block "1598286" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933170> a gtfs:Trip ;
-    gtfs:block "1598286" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933171> a gtfs:Trip ;
-    gtfs:block "1598288" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933173> a gtfs:Trip ;
-    gtfs:block "1598287" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933175> a gtfs:Trip ;
-    gtfs:block "1598286" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933178> a gtfs:Trip ;
-    gtfs:block "1598285" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933180> a gtfs:Trip ;
-    gtfs:block "1598285" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933181> a gtfs:Trip ;
-    gtfs:block "1598285" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
 <http://data.gtfs.org/sample-feed/0.1/trip/36933183> a gtfs:Trip ;
-    gtfs:block "1598285" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933185> a gtfs:Trip ;
-    gtfs:block "1598286" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933186> a gtfs:Trip ;
-    gtfs:block "1598285" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933188> a gtfs:Trip ;
     gtfs:block "1598285" ;
     gtfs:direction "0" ;
     gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
@@ -975,24 +303,6 @@
 
 <http://data.gtfs.org/sample-feed/0.1/trip/36933191> a gtfs:Trip ;
     gtfs:block "1598285" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933192> a gtfs:Trip ;
-    gtfs:block "1598287" ;
-    gtfs:direction "0" ;
-    gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
-    gtfs:route "55095" ;
-    gtfs:service "1" ;
-    gtfs:shortName "0.0" ;
-    gtfs:wheelchairAccessible gtfs:WheelchairAccessible .
-
-<http://data.gtfs.org/sample-feed/0.1/trip/36933193> a gtfs:Trip ;
-    gtfs:block "1598286" ;
     gtfs:direction "0" ;
     gtfs:headsign "EAST - 10 VAN HORNE TOWARDS VICTORIA PARK " ;
     gtfs:route "55095" ;
